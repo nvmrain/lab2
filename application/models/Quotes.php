@@ -26,7 +26,7 @@ class Quotes extends CI_Model
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
 		'7' => array('who' => 'Albert Einstein', 'role' => 'Theoretical physicist',
-			'what' => 'Imagination is more important than knowledge.');
+			'what' => 'Imagination is more important than knowledge.')
 	);
 
 	// Constructor
